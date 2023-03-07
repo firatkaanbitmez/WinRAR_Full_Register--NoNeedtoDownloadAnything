@@ -2,8 +2,8 @@
 
 #Type (Windows Powershell) in the Windows search bar, right-click on the program that appears. Run it as administrator. Then copy and paste the code below. And press enter ok, now Winrar will be full version.
 
-"""
 
+```
 
 New-Item -ItemType file -Path "C:\Program Files\WinRAR\rarreg.key"
 Set-Content -Path "C:\Program Files\WinRAR\rarreg.key" -Value "RAR registration data
@@ -18,4 +18,4 @@ d13141516c4c47c869c2b76309785d3d05606909687ce7e79c91d7
 bfebaaa0c3514f197a99b9c3590b2d0d110aa2ba37d8a72160ada7
 54fd3db8746dc7706cb36e57a5777074d497fa6d53592378887116"
 
-"""
+```
