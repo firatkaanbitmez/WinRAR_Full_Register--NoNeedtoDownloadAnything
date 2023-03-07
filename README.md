@@ -60,7 +60,7 @@ copy "%userprofile%\Downloads\rarreg\rarreg.key" "C:\Program Files\WinRAR"  /Y
 
 pause
 
-
+exit
 
 
 ```
